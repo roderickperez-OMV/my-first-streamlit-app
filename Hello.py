@@ -24,7 +24,7 @@ def run():
         page_icon="👋",
     )
 
-    st.write("# Hola!!! Welcome to Python! 👋")
+    st.write("# Willkommen!!! Welcome to Python! 👋")
 
     st.sidebar.success("Select a demo above.")
 
